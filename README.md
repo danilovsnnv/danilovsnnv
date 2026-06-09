@@ -1,9 +1,12 @@
-## AI/ML Engineer
+## Danil Ovsyannikov
+### ML Engineer / Data Scientist in fintech
 
-I have a academic foundation in applied mathematics and computer science, earned during my bachelor’s studies at Saint Petersburg State University of Economics. There, I gained a solid understanding of mathematics, economics, machine learning, and mathematical modeling. Currently, I am pursuing a Master’s degree in Artificial Intelligence at ITMO University — one of Russia’s leading institutions in the field of data science.
+I have an academic foundation in applied mathematics and computer science, earned during my bachelor’s studies at Saint Petersburg State University of Economics. There, I gained a solid understanding of mathematics, economics, machine learning, and mathematical modeling. Currently, I am pursuing a Master’s degree in Artificial Intelligence at ITMO University, one of Russia’s leading institutions in the field of data science and AI.
 
-Professionally, I work as a Data Scientist at Sberbank, the largest bank in Eastern Europe. My main focus is time series forecasting. I’ve worked on models for predicting corporate client activity, customer lifetime value (CLTV), and ecosystem engagement. My responsibilities include designing experiments, analyzing model forecasts, improving prediction quality, and presenting results to business stakeholders.
+Professionally, I work as an ML Engineer in Banco Plata, focusing on machine learning systems for risk-related decision-making, customer communication personalisation, and business process optimization. My work combines classical machine learning and explainable ML, deep learning, data analysis, and production-oriented development. I am interested not only in model quality, but also in how ML systems behave in real business environments and create measurable impact.
 
-In addition to my corporate experience, I contributed to the launch of Udarnik AI, a startup focused on ML services powered by large language models (LLMs). I was responsible for building machine learning services, data sourcing and validation, and system development.
+Before moving into Plata, I worked as a Data Scientist at Sberbank, where I focused on machine learning for banking products, customer behavior modeling, time series forecasting, and personalized recommendations. This experience helped me build a strong understanding of financial data, experimentation, model evaluation, and collaboration with business stakeholders.
 
-I’m particularly interested in building scalable, production-ready ML systems and applying machine learning to solve real-world business problems. Always open to meaningful collaboration and continuous learning.
+In addition to my corporate experience, I contributed to the launch of Udarnik AI, a startup focused on ML services powered by large language models. I was involved in building ML services, working with data pipelines, validating data quality, and developing production-ready system components.
+
+On GitHub, I mostly share learning projects, course-related ML repositories, experiments, and personal tools, including a custom library for uplift modeling. I use it as a space to explore ideas, improve engineering habits, and document my growth as an ML engineer. I’m particularly interested in building scalable, reliable, and production-ready ML systems for real-world business problems. Always open to meaningful collaboration and continuous learning.
